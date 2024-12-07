@@ -1,0 +1,35 @@
+.footer {
+  width: 100%;
+  padding: 100px 15% 0;
+  color: #efefef;
+  display: flex;
+}
+
+.footer div {
+  text-align: center;
+}
+
+.col-1 {
+  flex-grow: 1;
+}
+
+.col-3 {
+  flex-grow: 1;
+}
+
+.col-1 a {
+  text-decoration: none;
+  display: block;
+  color: #efefef;
+  margin-bottom: 10px;
+}
+
+.footer div h3 {
+  font-weight: 300;
+  margin-bottom: 10px;
+}
+
+.col-3 a {
+  color: #efefef;
+  text-decoration: none;
+}
