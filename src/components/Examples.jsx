@@ -11,7 +11,7 @@ const projectsTexts = {
         "Web App com full-text search e autocomplete (usando elasticsearch) para listar os mesmos produtos (ou similares) em diferentes mercados com seus respectivos preços",
         "Backend em Python (Flask), PostgreSQL (SQLAlchemy as ORM) e Elasticsearch e front-end em React",
       ],
-      link: "link para verbarato",
+      link: "https://verbarato.online/",
       link_text: "veja a aplicação web!",
     },
     perceptron: {
