@@ -31,7 +31,7 @@ const projectsTexts = {
         "Web App with full-text search functionality and autocomplete (using elasticsearch) to show a list of the same product (or similar products) from different grocery stores and their respective prices;",
         "Backend in Python (Flask microframework), PostgreSQL Database (SQLAlchemy as ORM) and front-end using React",
       ],
-      link: "link para verbarato",
+      link: "https://verbarato.online/",
       link_text: "take a look at the webapp!",
     },
     perceptron: {
